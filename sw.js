@@ -1,6 +1,6 @@
 // Rooftop Cat offline support.
 // When the game is updated, change VERSION so every installed copy picks up the new files.
-const VERSION = 'rooftop-cat-v1';
+const VERSION = 'rooftop-cat-v2';
 const CORE = [
   './',
   './index.html',
